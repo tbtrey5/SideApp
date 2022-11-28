@@ -1,0 +1,6 @@
+1#Avengers#Action#true
+2#Lottery Ticket# Family#false
+3#Halloween#Horror#true
+4#Alien vs Predator#Sci-Fi#true
+5#21 Jump Street#Comedy#false
+6#The Incredibles#Other#true
